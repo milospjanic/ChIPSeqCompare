@@ -28,6 +28,15 @@ Example of a strong correlation between the binding of two factors indicating ei
 ![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.3.png)
 
 
+
 Second example is shows the absence of correlation, with points equally distribited in all areas of the graph.
 
+
+
 ![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.4.png)
+
+
+Third example shows anticorrelation with binding sites appearing to be strongly anticorrelated (in red/green areas of the graph)
+
+
+![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.5.png)
