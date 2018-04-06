@@ -42,10 +42,12 @@ Third example shows anticorrelation with binding sites appearing to be strongly 
 ![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.5.png)
 
 
-Two following examples show artefacts of the method. First one shows full corelation of the two factors in the same binding complex (JUN, FOS), when fold changes appear higher when one antibody is stronger then the other one (or due to some other techincal factor).
+Two following examples show two possible artefacts of the ChIPSeq method. First one shows a full corelation for the two factors that are in the same binding complex (JUN, FOS). Fold changes could appear higher in one set when one antibody is stronger then the other one (or due to some other technical factor).
 
 
 ![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/FOS_macs_peaks.bed.txt.JUN_macs_peaks.bed.txt.output.png)
 
 
-Finally when one dataset is saturated (sequenced to the maximum), each binding site will have consistently higher fold change than the other data set. Hence, a systemic artefact represented as almost a vertical shape of the correlation.
+Finally when one dataset is saturated (sequenced to the maximum), each binding site will have consistently higher fold changes than the other data set. Hence, a systemic artefact represented as almost a vertical shape of the correlation.
+
+![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.2.png)
