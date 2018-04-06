@@ -23,6 +23,11 @@ cat file.2
 </pre>
 
 # Examples
-Example of a strong correlation between two factors indicating either synergistic binding to DNA of two factors (one factor helping the other one) or the presence of the two factors in a same protein complex.
+Example of a strong correlation between the binding of two factors indicating either synergistic binding to DNA of two factors (one factor helping the other one binds) or the presence of the two factors in a same protein complex. Third option is that these are members of the same TF family and that they stably interchange in the binding complex, hence at each bining site a stable equilibrium is achieved. 
 
 ![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.3.png)
+
+
+Second example is shows the absence of correlation, with points equally distribited in all areas of the graph.
+
+![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/forGit.4.png)
