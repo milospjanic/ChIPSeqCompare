@@ -44,3 +44,8 @@ Third example shows anticorrelation with binding sites appearing to be strongly 
 
 Two following examples show artefacts of the method. First one shows full corelation of the two factors in the same binding complex (JUN, FOS), when fold changes appear higher when one antibody is stronger then the other one (or due to some other techincal factor).
 
+
+![alt text](https://github.com/milospjanic/ChIPSeqCompare/blob/master/FOS_macs_peaks.bed.txt.JUN_macs_peaks.bed.txt.output.png)
+
+
+Finally when one dataset is saturated (sequenced to the maximum), each binding site will have consistently higher fold change than the other data set. Hence, a systemic artefact represented as almost a vertical shape of the correlation.
